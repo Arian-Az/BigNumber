@@ -28,4 +28,4 @@ BigNumber z = new BigNumber(12345);
 | + | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) YES  |
 | - | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) YES  |
 | &times; | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) YES   |
-| / | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) YES  |
+| / | ![#ffa600](https://via.placeholder.com/15/ffa600/000000?text=+) YES  |
